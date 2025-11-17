@@ -3,3 +3,14 @@
 
 [kawaii手書き文字](https://font.spicy-sweet.com)を利用させて頂いております。    
 `/www/libs` 直下に、 上記配布サイトからダウンロードしたフォントを配置してご利用ください。    
+
+## インストールと起動
+
+```
+cd ./kuso-app
+npm i
+npm start
+```
+
+起動後、ブラウザから `http://localhost:3179` でアクセスできます。
+
